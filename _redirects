@@ -1,0 +1,3 @@
+/get/repo_list https://api.github.com/orgs/silverblog-theme/repos 302
+/get/readme/* https://raw.githubusercontent.com/silverblog-theme/:splat/master/README.md 302
+/get/repo/* https://github.com/silverblog-theme/:splat.git 302
